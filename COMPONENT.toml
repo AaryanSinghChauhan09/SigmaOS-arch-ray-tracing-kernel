@@ -3,7 +3,7 @@ name = "SigmaOS-arch-ray-tracing-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-ray-tracing-kernel component"
+description = "SigmaOS SigmaOS-arch-ray-tracing-kernel component"
 upstream = []
 
 [contract]
